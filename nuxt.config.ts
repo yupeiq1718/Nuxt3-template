@@ -8,6 +8,7 @@ export default defineNuxtConfig({
         'defineStore', 
         ['defineStore', 'definePiniaStore']
       ]
-    }]
+    }],
+    'nuxt-svgo'
   ]
 })

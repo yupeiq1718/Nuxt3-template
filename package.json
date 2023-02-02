@@ -13,6 +13,7 @@
     "nuxt": "^3.1.1"
   },
   "dependencies": {
-    "@pinia/nuxt": "^0.4.6"
+    "@pinia/nuxt": "^0.4.6",
+    "nuxt-svgo": "^1.1.0"
   }
 }
